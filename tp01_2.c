@@ -48,8 +48,8 @@ int main()
     scanf("%d", &primero);
     printf("Ingrese el segundo numero: \n");
     scanf("%d", &segundo);
-    cuadrado = numero_al_cuadrado(numero);
-    numero_al_cuadrado2;
+    cuadrado = numero_al_cuadrado(primero);
+    numero_al_cuadrado2(primero);
     invertir(primero, segundo);
     orden(primero,segundo);
 
